@@ -50,6 +50,7 @@ GAME_MODULES = {
     "videocube": "jaxatari.games.jax_videocube",
     "videopinball": "jaxatari.games.jax_videopinball",
     "wordzapper": "jaxatari.games.jax_wordzapper",
+    "crossbow": "jaxatari.games.jax_crossbow",
     # Add new games here
 }
 
@@ -60,6 +61,7 @@ MOD_MODULES = {
     "freeway": "jaxatari.games.mods.freeway_mods.FreewayEnvMod",
     "breakout": "jaxatari.games.mods.breakout_mods.BreakoutEnvMod",
     "seaquest": "jaxatari.games.mods.seaquest_mods.SeaquestEnvMod",
+    "crossbow": "jaxatari.games.mods.crossbow_mods.CrossbowEnvMod",
 }
 
 
